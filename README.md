@@ -15,5 +15,6 @@ Segue o escopo do site:
 <img width="1876" height="909" alt="serviços" src="https://github.com/user-attachments/assets/7e46442f-1d52-4829-b2bf-3dd304d5188a" />
 <img width="1863" height="904" alt="equipe" src="https://github.com/user-attachments/assets/7e67d67e-1d2c-422b-af76-8304bc5375c4" />
 <img width="1865" height="889" alt="contato" src="https://github.com/user-attachments/assets/03e2b991-6363-4857-844e-431cb9476d44" />
+paradisekissdevcabo.netlify.app
 
 www.paradisekiss.com.br
